@@ -24,7 +24,7 @@ const posts = [{
 class Main extends Component {
     render() {
         return <div>
-                 <Title title={'PhotoWall'}/>
+                 <Title title={'After Kodilla course'}/>
                  <PhotoWall posts={posts}/>
                </div>
     }

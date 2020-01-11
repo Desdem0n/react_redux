@@ -1,0 +1,17 @@
+html {
+    font-size: 10px;
+}
+
+h1 {
+    font-family: billabong, 'billabong';
+    text-align: center;
+    font-size: 13rem;
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'billabong';
+    src: url("https://cdn.rawgit.com/milktronics/beaglegr.am/master/public/fonts/billabong-webfont.eot");
+    
+}
+
+

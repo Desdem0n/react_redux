@@ -24,6 +24,9 @@ h1 {
 
 .photo-grid {
     max-width: 1000px;
+    display: flex;
+    flex-basis: 60%;
+    /* justify-content: center; */
     margin: 0 auto;
 }
 
